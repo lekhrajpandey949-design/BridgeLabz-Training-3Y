@@ -1,6 +1,7 @@
 package javaClass.level2;
 
 
+
 public class CartItem {
     private String itemName;
     private double price;
