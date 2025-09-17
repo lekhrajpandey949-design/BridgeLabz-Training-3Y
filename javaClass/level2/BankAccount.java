@@ -1,7 +1,7 @@
 package javaClass.level2;
 public class BankAccount {
 	//Attributes
-	private String accountHolder;
+	
 	private String accountNumber;
 	private double balance;
 	
